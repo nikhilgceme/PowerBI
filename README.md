@@ -6,4 +6,4 @@ This project demonstrates how I approach BI not just as reporting, but as a deci
 Instead of building isolated dashboards, I created a connected business story across Finance, Sales, Marketing, and Supply Chain.
 The goal was simple — help Avenger Hardware move from revenue growth to profitable, predictable, and sustainable growth.
 
-Do check more details inside the repo by navigating to the case study document.
+Do check more details inside the repo by navigating to the BI360 folder for case study document.
