@@ -1,7 +1,7 @@
 # PowerBI
 This repository showcases end-to-end Power BI dashboard projects built using real-world business scenarios across multiple industry domains and business functions.  Each project demonstrates strong data extraction, data modeling, measure creation using DAX, KPI design, and business storytelling aligned with decision-making needs.
 
-## [BI 360 - Insights Across Every Business Function](https://app.powerbi.com/groups/me/reports/1a00b028-b052-4c02-b622-b9c761c3464c/48d0340e5389e4b968be?experience=power-bi)
+## [BI 360 - Insights Across Every Business Function](https://app.powerbi.com/view?r=eyJrIjoiOTg2MzQ4ZmYtYjdmYi00OTI3LTg1ZjQtZDA1Yzk2NzJmMjJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 Avenger Hardware, a global manufacturer of desktops, laptops, processors, and accessories, faced a critical challenge: while revenue was growing, profitability was declining. Despite healthy gross margins, net profit remained negative due to high operational expenses, post-invoice deductions, and inconsistent forecasting. Additionally, leadership lacked a unified view across Finance, Sales, Marketing, and Supply Chain, making it difficult to identify growth opportunities and control costs effectively.
 
 To address these challenges, a comprehensive 360° Power BI dashboard was developed, providing a single source of truth across all business functions. The solution enables stakeholders to monitor key KPIs such as revenue, margins, profitability, market share, and forecast accuracy in one place.
@@ -19,7 +19,7 @@ As a result, the solution improves profitability, enhances cost control, and str
 
 Do check more details inside the repo by navigating to the BI360 folder for case study document.
 
-## [Adventure Works Report](https://app.powerbi.com/groups/me/reports/c036f065-9771-4184-adc2-59422ff9c268/bbeff77aec8b8377fe6f?experience=power-bi)
+## [Adventure Works Report](https://app.powerbi.com/view?r=eyJrIjoiNDk4MmJjYzEtYTQwZS00Y2NlLTk4ZTctZTFhNWNiNDA1YTY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 Adventure Works, a global bicycle manufacturer, faced challenges due to fragmented sales and return data spread across multiple systems. This limited leadership’s ability to gain a unified view of business performance, identify high-performing products and customers, and monitor regional trends. Additionally, the lack of clear insights into return rates and forecasting made it difficult to optimize pricing, inventory, and marketing strategies.
 
 To address these issues, a comprehensive Power BI dashboard was developed to provide a centralized and data-driven view of business operations. The solution enables real-time monitoring of key metrics such as revenue, profit, orders, and return rates, helping executives quickly assess overall business health.
